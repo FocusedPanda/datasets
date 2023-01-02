@@ -3,23 +3,6 @@
     "id": "bundle--699bd116-0d3c-4478-a80c-94a36de628ec",
     "objects": [
         {
-            "type": "identity",
-            "spec_version": "2.1",
-            "id": "identity--7b82b010-b1c0-4dae-981f-7756374a17df",
-            "created": "2021-09-02T12:46:59.35173Z",
-            "modified": "2021-09-02T12:46:59.35173Z",
-            "name": "Agence Nationale de la Sécurité des Systèmes d'Information",
-            "description": "Agence nationale de la sécurité des systèmes d'information (ANSSI; English: National Cybersecurity Agency of France) is a French service created on 7 July 2009 with responsibility for computer security.",
-            "identity_class": "organization",
-            "object_marking_refs": [
-                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
-            ],
-            "x_opencti_aliases": [
-                "ANSSI"
-            ],
-            "x_opencti_organization_type": "csirt"
-        },
-        {
             "type": "location",
             "spec_version": "2.1",
             "id": "location--ee0b54f0-52b2-468e-8590-b251de47f96e",

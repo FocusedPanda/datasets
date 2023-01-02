@@ -8,8 +8,8 @@
             "id": "identity--7b82b010-b1c0-4dae-981f-7756374a17df" ,
             "created": "2021-10-21T10:10:11.638441Z" ,
             "modified": "2021-10-21T10:10:11.638441Z" ,
-            "name": "Agence Nationale de la S\u00e9curit\u00e9 des Syst\u00e8mes d'Information" ,
-            "description": "The Agence nationale de la s\u00e9curit\u00e9 des syst\u00e8mes d'information (ANSSI; English: National Cybersecurity Agency of France) is a French service created on 7 July 2009 with responsibility for computer security." ,
+            "name": "Agence Nationale de la Sécurité des Systèmes d'Information" ,
+            "description": "The Agence nationale de la sécurité des systèmes d'information (ANSSI; English: National Cybersecurity Agency of France) is a French service created on 7 July 2009 with responsibility for computer security." ,
             "identity_class": "organization" ,
             "object_marking_refs": [
                 "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
